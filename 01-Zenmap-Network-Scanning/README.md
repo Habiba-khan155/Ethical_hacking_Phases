@@ -30,7 +30,9 @@ Windows
 ## Evidence
 ![Zenmap Screenshot](./znmap.PNG)
 
-![Zenmap Screenshot](./tempsnip.PNG)
+
+
+![Zenmap Screenshot](./tempsnip.png)
 
 
 
