@@ -26,7 +26,7 @@ This week covers two selected practical modules:
 
 The detailed Week 2 report is available in:
 
-`Week-02/Final-Report/W2-PM-FINAL.pdf`
+`Report.pdf`
 
 ## Disclaimer
 
