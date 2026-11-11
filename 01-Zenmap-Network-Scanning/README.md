@@ -28,7 +28,7 @@ Open Zenmap and confirm that the application launches successfully.
 Windows
 
 ## Evidence
+![Zenmap Screenshot](./znmap.PNG)
 
-Add installation screenshots in the Screenshots folder.
-![Zenmap Screenshot](znmap.png)
+
 
