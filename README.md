@@ -39,4 +39,4 @@ All practical activities were performed within the authorized scope for educatio
 **Umm e habiba **
 
 Cybersecurity Intern  
-Program/Batch: B082 – Networkwalks
+Program/Batch: B084E – Networkwalks
