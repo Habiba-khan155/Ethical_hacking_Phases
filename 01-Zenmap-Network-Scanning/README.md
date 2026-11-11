@@ -30,4 +30,5 @@ Windows
 ## Evidence
 
 Add installation screenshots in the Screenshots folder.
-(znmap.png)
+![Zenmap Screenshot](znmap.png)
+
