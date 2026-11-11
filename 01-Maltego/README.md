@@ -28,3 +28,4 @@ Confirm that Maltego launches and allows you to create a new graph.
 ## Evidence
 
 Add installation screenshots in the Screenshots folder.
+![Maltego Screenshot](meltego target1.PNG)
